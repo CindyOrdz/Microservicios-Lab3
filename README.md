@@ -1,4 +1,6 @@
 # Microservicios-Lab3
+Laboratorio en clase. 
+CRUD sobre un archivo txt.
 
 # Grupo: 
 
